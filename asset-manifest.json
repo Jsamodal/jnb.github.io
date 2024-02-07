@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jnb.github.io/static/css/main.51811c75.chunk.css",
+    "main.js": "/jnb.github.io/static/js/main.e0336ac4.chunk.js",
+    "main.js.map": "/jnb.github.io/static/js/main.e0336ac4.chunk.js.map",
+    "runtime~main.js": "/jnb.github.io/static/js/runtime~main.57ccfa89.js",
+    "runtime~main.js.map": "/jnb.github.io/static/js/runtime~main.57ccfa89.js.map",
+    "static/js/2.2755baf3.chunk.js": "/jnb.github.io/static/js/2.2755baf3.chunk.js",
+    "static/js/2.2755baf3.chunk.js.map": "/jnb.github.io/static/js/2.2755baf3.chunk.js.map",
+    "index.html": "/jnb.github.io/index.html",
+    "precache-manifest.d335c893c7dfa8f2b938d00dcb0765c8.js": "/jnb.github.io/precache-manifest.d335c893c7dfa8f2b938d00dcb0765c8.js",
+    "service-worker.js": "/jnb.github.io/service-worker.js",
+    "static/css/main.51811c75.chunk.css.map": "/jnb.github.io/static/css/main.51811c75.chunk.css.map",
+    "static/media/Bianca.jpg": "/jnb.github.io/static/media/Bianca.bc7188ac.jpg",
+    "static/media/index.css": "/jnb.github.io/static/media/sunset3.5066bb80.jpg",
+    "static/media/arb1.jpg": "/jnb.github.io/static/media/arb1.a7d44f09.jpg",
+    "static/media/arb2.jpg": "/jnb.github.io/static/media/arb2.6368c6ee.jpg",
+    "static/media/logo.png": "/jnb.github.io/static/media/logo.4aaa63c1.png"
+  }
+}
