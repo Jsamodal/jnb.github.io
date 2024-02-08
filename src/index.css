@@ -1078,13 +1078,13 @@ body.slide .oliven-nav-toggle {
 #countdown {
     text-align: center;
     background-image: url(./assets/images/Gifts.jpg);
-    height:100%;
+    background-size:100%;
 }
 @media screen and (max-width: 400px) {
     #countdown {
         text-align: center;
         background-image: url(./assets/images/gifts2.jpg);
-        height:100%;
+        background-size:100%;
     }
 }
 
