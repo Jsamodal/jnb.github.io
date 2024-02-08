@@ -36,7 +36,7 @@ function Where () {
               <img className='where1'src={where2} alt='' />
             </div>
             <div className='content'>
-              <h5>Weddding Party</h5>
+              <h5>Wedding Party</h5>
               <p>
               <i className='ti-location-pin'>The Arbutus Club</i> 
               <p>2001 Nanton Ave, Vancouver, BC V6J 4A1</p>
