@@ -24,7 +24,7 @@ function Organization () {
             <h2 className='custom-font numb'>02</h2>
             <h6 className='title'>Dinner</h6>
             <p>
-              Join us for a joyous dinner with delicious plated dishes as we celebrate love together.
+              Join us for a joyous dinner with delicious buffet style dishes as we celebrate love together.
             </p>
           </div>
           <div className='col-md-3 item-box'>
