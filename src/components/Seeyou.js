@@ -13,9 +13,13 @@ function Seeyou () {
               <i className='ti-heart'></i>
             </span>
             <h2 classname="funds">Honeymoon Fund</h2>
-            <h5 classname="money">If you were thinking of giving a gift to help us on our way, 
-                a gift of cash towards our honey moon, 
-                would really make our day! </h5>
+            <h5 classname="money"> Join us in making memories! 
+                                    Instead of a traditional registry, 
+                                    we've set up a Honeymoon Fund. 
+                                    Your contribution will help create 
+                                    lasting moments as we start this new chapter together. 
+                                    Thank you for being a part of our journey!</h5>
+            <h2 classname="funds"> You can E-Transfer us at: biancayukkei@gmail.com </h2>
           </div>
         </div>
       </div>
